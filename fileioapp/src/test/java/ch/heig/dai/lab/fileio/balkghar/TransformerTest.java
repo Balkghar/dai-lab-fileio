@@ -1,7 +1,10 @@
-// TODO change this to your own package instead of jehrensb ***
-package ch.heig.dai.lab.fileio.jehrensb;
+// TODO change this to your own package instead of balkghar ***
+package ch.heig.dai.lab.fileio.balkghar;
 
 import org.junit.jupiter.api.Test;
+
+import ch.heig.dai.lab.fileio.balkghar.Transformer;
+
 import org.junit.jupiter.api.Disabled;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
